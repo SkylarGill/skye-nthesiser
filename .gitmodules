@@ -1,0 +1,6 @@
+[submodule "lib/Juce"]
+	path = lib/Juce
+	url = https://github.com/juce-framework/JUCE.git
+[submodule "lib/DaisySP"]
+	path = lib/DaisySP
+	url = https://github.com/SkylarGill/DaisySP.git
